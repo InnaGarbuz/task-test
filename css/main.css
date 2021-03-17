@@ -177,6 +177,8 @@ main {
         display: flex;
         align-items: center;
         color: #91A0B6; }
+        .pl-breadcrumbs .breadcrumb-list .breadcrumb-item a:hover {
+          color: #04BF94; }
 
 .pl-header {
   background: #FFFFFF;
@@ -538,6 +540,8 @@ main {
           align-items: center;
           text-align: center;
           color: #91A0B6; }
+          .pl-footer .container .footer-menu li a:hover {
+            color: #04BF94; }
     .pl-footer .container p {
       font-weight: normal;
       font-size: 14px;

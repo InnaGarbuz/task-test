@@ -229,6 +229,9 @@ main{
         display: flex;
         align-items: center;
         color: #91A0B6;
+        &:hover{
+          color: #04BF94;
+        }
       }
     }
   }
@@ -670,6 +673,9 @@ main{
           align-items: center;
           text-align: center;
           color: #91A0B6;
+          &:hover{
+            color: #04BF94;
+          }
         }
       }
     }
